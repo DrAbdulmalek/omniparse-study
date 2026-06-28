@@ -1,3 +1,22 @@
+<!-- ARCHIVE BANNER - AUTO-GENERATED -->
+<div align="center">
+
+# ⚠️ This repository has been archived
+
+**Study artifacts preserved in archive/06-deepseek-scaffolds/**
+
+This project has been consolidated into the unified **[omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)** monorepo.
+
+All active development, bug fixes, and new features continue there.
+
+</div>
+
+---
+
+> **Archived on: 2026-06-28** | **Active project:** [omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)
+
+---
+
 # OmniParse Study — Medical OCR Enhancement Analysis
 
 > **Research Repository** — Study and analysis of [OmniParse](https://github.com/adithya-s-k/omniparse) for improving medical handwriting OCR.
